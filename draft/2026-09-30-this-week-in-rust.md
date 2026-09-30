@@ -50,6 +50,8 @@ See here for details: https://github.com/rust-lang/this-week-in-rust/issues/8575
 
 ### Observations/Thoughts
 
+* [Rust in the kernel? What about Rust without the kernel!](https://kerkour.com/rust-kernel)
+
 ### Rust Walkthroughs
 
 ### Research
